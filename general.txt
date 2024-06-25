@@ -1,109 +1,200 @@
-ocean engineering
-marine engineering
-oceanography
-ocean
-underwater technology
-offshore engineering
-maritime engineering
-naval architecture
-ocean science
-marine technology
-blue technology
-offshore oil and gas
-marine renewable energy
-aquaculture
-underwater vehicles
-AUVs
-ROVs
-ocean observation
-underwater acoustics
-coastal engineering
-port and harbor engineering
-ocean mining
-desalination
-offshore platforms
-fixed platforms
-floating platforms
-subsea pipelines
-risers
-moorings
-underwater habitats
-breakwaters
-seawalls
-jetties
-steel
-concrete
-composites
-corrosion protection
-biofouling
-waves
-currents
-tides
-wind
-hydrostatics
-fluid mechanics
-meteorology
-geology
-geotechnics
-marine biology
-computer-aided design (CAD)
-finite element analysis (FEA)
-computational fluid dynamics (CFD)
-risk analysis
-reliability engineering
-shipbuilding
-offshore installation
-underwater welding
-diving
-inspection
-repair
-non-destructive testing (NDT)
-health and safety
-marine pollution
-ocean acidification
-climate change
-environmental impact assessment (EIA)
-maritime law
-international maritime organization (IMO)
-classification societies
-ocean science and technology
-innovation
-future of ocean engineering
-sensors
-actuators
-communication systems
-robotics
-automation
-artificial intelligence (AI)
-machine learning (ML)
-big data
-ocean data
-data analysis
-modeling and simulation
-ocean engineering education
-marine engineering programs
-professional development
-Marine Technology Society (MTS)
-Society of Naval Architects and Marine Engineers (SNAME)
-The Oceanography Society
-American Society of Civil Engineers (ASCE) - Ocean Engineering Institute
-sustainable ocean engineering
-blue growth
-ocean exploration
-deep sea mining
-autonomous underwater vehicles (AUVs)
-remotely operated vehicles (ROVs)
-unmanned surface vehicles (USVs)
-ocean energy
-wave energy
-tidal energy
-ocean current energy
-ocean thermal energy conversion (OTEC)
-marine spatial planning
-ocean governance
-ocean literacy
-ocean robotics
-marine biotechnology
-ocean big data
-ocean desalination
-ocean carbon capture and storage (CCS)
+Marine
+Offshore
+Subsea
+Hydrodynamics
+Naval
+Aquaculture
+Buoyancy
+Hull
+Mooring
+Shipbuilding
+Propulsion
+Dredging
+Wave
+Tidal
+Oceanography
+Salinity
+Bathymetry
+Sediment
+Corrosion
+Sonar
+AUV (Autonomous Underwater Vehicle)
+ROV (Remotely Operated Vehicle)
+Cable
+Anchor
+Platform
+Rig
+Pipeline
+Current
+Turbine
+Windfarm
+Seafloor
+Exploration
+Surveying
+Geotechnical
+Hydrographic
+Navigation
+Harbor
+Port
+Dock
+Quay
+Wharf
+Breakwater
+Jetty
+Lighthouse
+Buoy
+Fender
+Marina
+Pier
+Slipway
+Drydock
+Channel
+Estuary
+Lagoon
+Barge
+Catamaran
+Trimaran
+Submarine
+Torpedo
+Hydrofoil
+Ballast
+Keel
+Rudder
+Deck
+Bulkhead
+Superstructure
+Bridge (of a ship)
+Cargo
+Tanker
+Container
+Freighter
+Passenger
+Cruise
+Ferry
+Lifeboat
+Rescue
+Coastguard
+Patrol
+Buoyancy
+Stability
+Trim
+List
+Drift
+Drag
+Thrust
+Rudder
+Helmsman
+Seamanship
+Flotation
+Diving
+Salvage
+Recovery
+Maintenance
+Inspection
+Construction
+Decommissioning
+Sustainability
+Environmental
+Protection
+Regulations
+Safety
+Hydraulic
+Seismic
+Monitoring
+Instrumentation
+Seafaring
+Navigation
+Harbor
+Dockyard
+Shipyard
+Marine Engineering
+Coastal Engineering
+Ocean Structures
+Marine Vehicles
+Wave Energy
+Tidal Energy
+Renewable Energy
+Offshore Drilling
+Subsea Cables
+Deepwater
+Continental Shelf
+Marine Biology
+Ecology
+Sedimentation
+Erosion
+Fisheries
+Aquatic
+Marine Mammals
+Coral Reefs
+Estuarine
+Brackish
+Wetlands
+Mangroves
+Seagrass
+Algal Blooms
+Red Tide
+Oil Spill
+Pollution
+Desalination
+Water Quality
+Wastewater
+Sewage
+Stormwater
+Flooding
+Marine Debris
+Plastic Pollution
+Microplastics
+Climate Change
+Sea Level Rise
+Ocean Acidification
+Marine Conservation
+Protected Areas
+Fisheries Management
+Marine Spatial Planning
+Coastal Zone Management
+Integrated Coastal Management
+Marine Policy
+Legislation
+Maritime Law
+Admiralty Law
+Marine Insurance
+Marine Survey
+Marine Consulting
+Marine Research
+Marine Biotechnology
+Marine Pharmacology
+Marine Genomics
+Marine Robotics
+Underwater Acoustics
+Underwater Welding
+Subsea Engineering
+Offshore Wind
+Offshore Oil
+Offshore Gas
+Deep Sea Mining
+Ocean Mining
+Seabed Resources
+Underwater Construction
+Subsea Infrastructure
+Offshore Platforms
+Floating Structures
+Fixed Structures
+Hybrid Structures
+Semi-Submersibles
+Jack-Up Rigs
+FPSO (Floating Production Storage and Offloading)
+FLNG (Floating Liquefied Natural Gas)
+Offshore Pipelines
+Umbilicals
+Risers
+Flowlines
+Subsea Production Systems
+Subsea Control Systems
+Subsea Manifolds
+ROV Operations
+AUV Operations
+Diving Operations
+Marine Surveying
+Geophysical Surveying
+Geotechnical Surveying
+Hydrographic Surveying
